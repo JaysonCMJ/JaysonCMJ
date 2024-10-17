@@ -8,7 +8,7 @@
 - <b>Gaming with Bare Hands</b>
   - [Gesture Play](https://github.com/JaysonCMJ/Gaming-with-Bare-Hands)
   <br>
-- <b>Cafe Staff Management System</b>
+- <b>Cafe Staff Management System Prototype</b>
   - [Java Junction Pro](https://github.com/JaysonCMJ/Cafe-Staff-Management-System)
 
 <h2> Connect with me:</h2>
