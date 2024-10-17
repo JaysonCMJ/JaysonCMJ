@@ -9,7 +9,7 @@
   - [Gesture Play](https://github.com/JaysonCMJ/Gaming-with-Bare-Hands)
   <br>
 - <b>Cafe Staff Management System</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Java Junction Pro](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> Connect with me:</h2>
 
