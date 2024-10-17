@@ -3,9 +3,11 @@
 <h2> Software Development Projects:</h2>
 
 - <b>3D Game Prototype in Unity – Roguelike Dungeon Crawler</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Roguelike Dungeon Crawler](https://github.com/Siythus/3D-Game-Prototype-in-Unity-)
+  <br>
 - <b>Gaming with Bare Hands</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  <br>
 - <b>Cafe Staff Management System</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
