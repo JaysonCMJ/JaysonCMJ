@@ -3,7 +3,7 @@
 <h2> Software Development Projects:</h2>
 
 - <b>3D Game Prototype in Unity – Roguelike Dungeon Crawler</b>
-  - [Roguelike Dungeon Crawler](https://github.com/Siythus/3D-Game-Prototype-in-Unity-)
+  - [Roguelike Dungeon Crawler](https://github.com/Siythus/3D-Game-Prototype-in-Unity)
   <br>
 - <b>Gaming with Bare Hands</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
